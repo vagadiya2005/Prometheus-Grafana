@@ -21,5 +21,5 @@ sudo apt-get install -y grafana
 sudo systemctl start grafana-server
 sudo systemctl enable grafana-server
 
-#You can check if Grafana is running by using the following command
+#You can check if Grafana is running by using the following command.
 sudo systemctl status grafana-server
